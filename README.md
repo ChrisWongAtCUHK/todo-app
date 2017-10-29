@@ -5,6 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## IMPORTANT
 
   1. [Angular 2 Tutorial: Create a CRUD App with Angular CLI](https://www.sitepoint.com/angular-2-tutorial/)
+  2.[how to deploy Angular 2 App to Github Pages?](https://stackoverflow.com/questions/42688580/how-to-deploy-angular-2-app-to-github-pages)
+  3. ngh --branch=master
 
 ## Development server
 
